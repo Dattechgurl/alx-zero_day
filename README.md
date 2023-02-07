@@ -1,2 +1,1 @@
-my first readme
-so smooth
+my first readmeb up to date
